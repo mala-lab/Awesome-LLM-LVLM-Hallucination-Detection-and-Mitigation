@@ -113,6 +113,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Zhang2025] ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs in *ACL*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.16488)[\[code\]]() 
 
+- [Cheang2025] Large Language Models Do NOT Really Know What They Don't Know in *arXiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.09033)[\[code\]]() 
+
 
 ###  RL Reasoning
 
