@@ -27,6 +27,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Simhi2024] Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2404.09971)[\[code\]](https://github.com/technion-cs-nlp/hallucination-mitigation)  
 
+- [Wang2026] GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents in *ACL*, 2026. [\[paper\]](https://arxiv.org/abs/2603.24329)[\[code\]](https://hats-ict.github.io/gameplayqa/)  
+
 
 ## Causes of Hallucination 
 
