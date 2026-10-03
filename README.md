@@ -206,6 +206,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Kang2024] Unfamiliar finetuning examples control how language in *NAACL*, 2024. [\[paper\]](https://arxiv.org/pdf/2403.05612)[\[code\]](https://github.com/katiekang1998/llm_hallucinations)
 
+- [Cha2024] Visually Dehallucinative Instruction Generation: Know What You Don't Know in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2402.09717)
+
 - [Yang2025] Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key in *CVPR*, 2025.  [\[paper\]](https://arxiv.org/abs/2501.09695)[\[code\]](https://github.com/zhyang2226/OPA-DPO)
 
 - [Gu2025] Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2503.02846)[\[code\]](https://github.com/open-compass/ANAH)
