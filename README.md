@@ -117,6 +117,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Cheang2025] Large Language Models Do NOT Really Know What They Don't Know in *arXiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.09033)[\[code\]]() 
 
 
+- [Bhatnagar2026] DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2601.14210)[\[code\]]()
+
 ###  RL Reasoning
 
 - [Su2025] Learning to Reason for Hallucination Span Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.02173)[\[code\]]() 
