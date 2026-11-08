@@ -195,6 +195,10 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Cheng2025]  Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector in *EMNLP*, 2024. [\[paper\]](https://aclanthology.org/2024.emnlp-main.809.pdf)[\[code\]](https://github.com/RUCAIBox/HaluAgent)
 
+- [Huang2025] ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation in *NeurIPS*, 2025. [\[paper\]](https://arxiv.org/abs/2502.15543)[\[code\]](https://github.com/OpenBMB/ParamMute)
+
+- [Li2026] SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2606.27786)[\[code\]](https://github.com/OpenBMB/SHIFT)
+
 
 ### Alignment-Fine-tuning
 
