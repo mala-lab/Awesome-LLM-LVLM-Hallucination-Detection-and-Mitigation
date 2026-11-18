@@ -119,6 +119,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Bhatnagar2026] DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2601.14210)[\[code\]]()
 
+- [Yang2026] TriLens: Per-Layer Logit-Lens Entropy for White-Box Hallucination Detection in *EMNLP 2026 Findings*. [\[paper\]](https://aclanthology.org/2026.findings-emnlp.1803/)[\[code\]](https://github.com/TosakaUCW/TriLens)
+
 ###  RL Reasoning
 
 - [Su2025] Learning to Reason for Hallucination Span Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.02173)[\[code\]]() 
